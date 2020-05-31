@@ -1,14 +1,20 @@
 # Sayed Kazimi
 
-### Name: Kazimi
+#### Name: Kazimi
 
-### Frist Name: Sayed
+#### Frist Name: Sayed
 
-### Age: 26 
+#### Age: 26 
 
-### Location: Ghent, Belgium
+#### Location: Ghent, Belgium
 
-### Languages: Dari, Persian, Pashto, English, Dutch, little French
+#### Languages: 
+  * Dari
+  * Persian
+  * Pashto
+  * English
+  * Dutch
+  * little French
 
-[back](./README.md)
+[BACK](./README.md)
 
