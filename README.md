@@ -12,7 +12,7 @@ We are from **LetItBe Group** or **Group 6**.
 
 Get to know more about us:
 - [Abel](./abel.md)
-- Galal
+- [Galal](./galal.md)
 - [Lisa](./lisa.md)
 - Mari
 - [Sayed](./intro-sayed.md)
