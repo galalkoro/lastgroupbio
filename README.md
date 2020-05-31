@@ -2,7 +2,6 @@
 
 ## This is the last time that we speak about ourselves
 
-
 We are from **LetItBe Group** or **Group 6**.
 
 >"Speaking words of wisdom, let it be.
@@ -12,8 +11,8 @@ We are from **LetItBe Group** or **Group 6**.
 >Whisper words of wisdom, let it be."
 
 Get to know more about us:
-- Abel
+- [Abel](./abel.md)
 - Galal
-- Lisa
+- [Lisa](./lisa.md)
 - Mari
-- Sayed
+- [Sayed](./intro-sayed.md)
