@@ -11,7 +11,7 @@ We are from **LetItBe Group** or **Group 6**.
 >Whisper words of wisdom, let it be."
 
 Get to know more about us:
-- Abel
+- [Abel](./abel.md)
 - Galal
 - [Lisa](./lisa.md)
 - Mari
