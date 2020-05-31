@@ -14,6 +14,7 @@ We are from **LetItBe Group** or **Group 6**.
 Get to know more about us:
 - Abel
 - Galal
-- Lisa
+- [Lisa](./lisa.md)
 - Mari
 - Sayed
+
